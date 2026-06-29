@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SauravPandey56/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/SauravPandey56/leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
