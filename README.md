@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1288-remove-covered-intervals](https://github.com/SauravPandey56/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/SauravPandey56/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SauravPandey56/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/SauravPandey56/leetcode/tree/master/1929-concatenation-of-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1288-remove-covered-intervals](https://github.com/SauravPandey56/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SauravPandey56/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 | Problem Name | Difficulty |
