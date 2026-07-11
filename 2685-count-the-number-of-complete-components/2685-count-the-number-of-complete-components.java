@@ -1,4 +1,5 @@
 
+
 class Solution {
     public int countCompleteComponents(int n, int[][] edges) {
         List<List<Integer>> graph = new ArrayList<>();
