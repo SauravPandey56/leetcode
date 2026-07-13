@@ -133,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SauravPandey56/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/SauravPandey56/leetcode/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
