@@ -1,39 +1,52 @@
 class Solution {
     private static final int MOD = 1_000_000_007;
+    private static final int MAX = 200;
 
     public int subsequencePairCount(int[] nums) {
-        int max = 200;
+        int[][] gcd = new int[MAX + 1][MAX + 1];
 
-        long[][] dp = new long[max + 1][max + 1];
+        // Precompute all GCD values
+        for (int i = 0; i <= MAX; i++) {
+            for (int j = 0; j <= MAX; j++) {
+                gcd[i][j] = findGcd(i, j);
+            }
+        }
+
+        long[][] dp = new long[MAX + 1][MAX + 1];
         dp[0][0] = 1;
 
         for (int num : nums) {
-            long[][] next = new long[max + 1][max + 1];
+            long[][] next = new long[MAX + 1][MAX + 1];
 
-            for (int gcd1 = 0; gcd1 <= max; gcd1++) {
-                for (int gcd2 = 0; gcd2 <= max; gcd2++) {
+            for (int g1 = 0; g1 <= MAX; g1++) {
+                for (int g2 = 0; g2 <= MAX; g2++) {
+                    long count = dp[g1][g2];
 
-                    if (dp[gcd1][gcd2] == 0) {
+                    if (count == 0) {
                         continue;
                     }
 
-                    long count = dp[gcd1][gcd2];
+                    // Skip num
+                    next[g1][g2] += count;
+                    if (next[g1][g2] >= MOD) {
+                        next[g1][g2] -= MOD;
+                    }
 
-                    // 1. Do not take num
-                    next[gcd1][gcd2] =
-                        (next[gcd1][gcd2] + count) % MOD;
+                    // Add num to seq1
+                    int newG1 = gcd[g1][num];
 
-                    // 2. Add num to seq1
-                    int newGcd1 = gcd(gcd1, num);
+                    next[newG1][g2] += count;
+                    if (next[newG1][g2] >= MOD) {
+                        next[newG1][g2] -= MOD;
+                    }
 
-                    next[newGcd1][gcd2] =
-                        (next[newGcd1][gcd2] + count) % MOD;
+                    // Add num to seq2
+                    int newG2 = gcd[g2][num];
 
-                    // 3. Add num to seq2
-                    int newGcd2 = gcd(gcd2, num);
-
-                    next[gcd1][newGcd2] =
-                        (next[gcd1][newGcd2] + count) % MOD;
+                    next[g1][newG2] += count;
+                    if (next[g1][newG2] >= MOD) {
+                        next[g1][newG2] -= MOD;
+                    }
                 }
             }
 
@@ -42,22 +55,22 @@ class Solution {
 
         long answer = 0;
 
-        for (int gcd = 1; gcd <= max; gcd++) {
-            answer = (answer + dp[gcd][gcd]) % MOD;
+        for (int g = 1; g <= MAX; g++) {
+            answer += dp[g][g];
+
+            if (answer >= MOD) {
+                answer -= MOD;
+            }
         }
 
         return (int) answer;
     }
 
-    private int gcd(int a, int b) {
-        if (a == 0) {
-            return b;
-        }
-
+    private int findGcd(int a, int b) {
         while (b != 0) {
-            int remainder = a % b;
-            a = b;
-            b = remainder;
+            int temp = b;
+            b = a % b;
+            a = temp;
         }
 
         return a;
