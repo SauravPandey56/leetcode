@@ -1,5 +1,3 @@
-
-
 class Solution {
     public long gcdSum(int[] nums) {
         int n = nums.length;
