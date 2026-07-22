@@ -1,5 +1,3 @@
-
-
 class Solution {
     public List<Integer> maxActiveSectionsAfterTrade(String s, int[][] queries) {
         int n = s.length();
