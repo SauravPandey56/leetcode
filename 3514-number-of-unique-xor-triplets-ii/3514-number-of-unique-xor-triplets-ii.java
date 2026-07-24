@@ -1,44 +1,36 @@
+import java.util.*;
+
 class Solution {
     public int uniqueXorTriplets(int[] nums) {
-        final int MAX = 2048;
-
-        boolean[][] dp = new boolean[4][MAX];
-        dp[0][0] = true;
-
-        for (int v : nums) {
-            boolean[][] next = new boolean[4][MAX];
-
-            // Skip current index
-            for (int k = 0; k <= 3; k++) {
-                System.arraycopy(dp[k], 0, next[k], 0, MAX);
-            }
-
-            // Take current index 1, 2, or 3 times
-            for (int used = 0; used <= 3; used++) {
-                for (int x = 0; x < MAX; x++) {
-                    if (!dp[used][x]) continue;
-
-                    // Take once
-                    if (used + 1 <= 3)
-                        next[used + 1][x ^ v] = true;
-
-                    // Take twice (v ^ v = 0)
-                    if (used + 2 <= 3)
-                        next[used + 2][x] = true;
-
-                    // Take three times (v ^ v ^ v = v)
-                    if (used + 3 <= 3)
-                        next[used + 3][x ^ v] = true;
-                }
-            }
-
-            dp = next;
+        int MAXV = 2048; // since nums[i] <= 1500, XORs stay < 2048
+        
+        boolean[] present1 = new boolean[MAXV];
+        for (int x : nums) present1[x] = true;
+        
+        List<Integer> s1 = new ArrayList<>();
+        for (int v = 0; v < MAXV; v++) {
+            if (present1[v]) s1.add(v);
         }
-
-        int ans = 0;
-        for (boolean ok : dp[3]) {
-            if (ok) ans++;
+        
+        boolean[] present2 = new boolean[MAXV];
+        for (int x : s1) {
+            for (int y : s1) {
+                present2[x ^ y] = true;
+            }
         }
-        return ans;
+        
+        boolean[] present3 = new boolean[MAXV];
+        for (int x = 0; x < MAXV; x++) {
+            if (!present2[x]) continue;
+            for (int y : s1) {
+                present3[x ^ y] = true;
+            }
+        }
+        
+        int count = 0;
+        for (int v = 0; v < MAXV; v++) {
+            if (present3[v]) count++;
+        }
+        return count;
     }
 }
