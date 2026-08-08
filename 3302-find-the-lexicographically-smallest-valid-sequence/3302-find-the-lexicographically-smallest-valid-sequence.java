@@ -4,8 +4,7 @@ class Solution {
         int n = word1.length();
         int m = word2.length();
 
-        // suf[j] = earliest index in word1 from which
-        // word2[j...] can be matched exactly.
+        
         int[] suf = new int[m + 1];
 
         // n means: impossible
@@ -38,9 +37,6 @@ class Solution {
 
             int start = prev + 1;
 
-            // -----------------------------------------
-            // Option 1: Take exact matching character
-            // -----------------------------------------
             int exact = -1;
 
             for (int i = start; i < n; i++) {
@@ -50,22 +46,12 @@ class Solution {
                 }
             }
 
-            // -----------------------------------------
-            // Option 2: Use the one allowed modification
-            // -----------------------------------------
             int change = -1;
 
             if (!usedChange && start < n
                     && word1.charAt(start) != word2.charAt(j)) {
 
-                /*
-                 * If this is the last character, we can
-                 * always modify word1[start].
-                 *
-                 * Otherwise, the remaining suffix
-                 * word2[j+1...] must be matched exactly
-                 * after 'start'.
-                 */
+               
                 if (j == m - 1 ||
                     (suf[j + 1] < n && start < suf[j + 1])) {
 
@@ -78,8 +64,6 @@ class Solution {
                 return new int[0];
             }
 
-            // Choose smaller index because the answer
-            // must be lexicographically smallest.
             if (change != -1 &&
                 (exact == -1 || change < exact)) {
 
