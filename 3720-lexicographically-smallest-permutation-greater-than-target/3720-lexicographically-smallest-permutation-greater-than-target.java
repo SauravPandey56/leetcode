@@ -53,11 +53,7 @@ class Solution {
             break;
         }
 
-        /*
-         * Backtracking
-         *
-         * Rebuild frequency array and match target prefix.
-         */
+        
         count = new int[26];
 
         for (char ch : s.toCharArray()) {
