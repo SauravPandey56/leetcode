@@ -1,4 +1,3 @@
-
 class Solution {
 
     static class State {
@@ -42,11 +41,6 @@ class Solution {
             next[i] = binarySearch(arr, i);
         }
 
-        /*
-         * dp[i][k] =
-         * best answer starting from i
-         * when we can still choose k intervals.
-         */
         State[][] dp = new State[n + 1][5];
 
         for (int k = 0; k <= 4; k++) {
@@ -59,10 +53,10 @@ class Solution {
 
             for (int k = 1; k <= 4; k++) {
 
-                // Option 1: skip current interval
+                // skip current interval
                 State skip = dp[i + 1][k];
 
-                // Option 2: take current interval
+                //  take current interval
                 State nextState = dp[next[i]][k - 1];
 
                 List<Integer> takeIndices =
