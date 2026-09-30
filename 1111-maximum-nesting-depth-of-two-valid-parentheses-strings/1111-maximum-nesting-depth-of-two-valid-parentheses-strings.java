@@ -10,13 +10,10 @@ class Solution {
             if (seq.charAt(i) == '(') {
                 depth++;
 
-                // Odd depth -> group 1
-                // Even depth -> group 0
                 ans[i] = depth % 2;
             } 
             else {
-                // Closing bracket belongs to the same group
-                // as its corresponding opening bracket
+              
                 ans[i] = depth % 2;
 
                 depth--;
