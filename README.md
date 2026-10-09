@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/SauravPandey56/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SauravPandey56/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0835-image-overlap](https://github.com/SauravPandey56/leetcode/tree/main/0835-image-overlap/) | Medium |
@@ -61,13 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/SauravPandey56/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/SauravPandey56/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0678-valid-parenthesis-string](https://github.com/SauravPandey56/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SauravPandey56/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SauravPandey56/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/SauravPandey56/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SauravPandey56/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SauravPandey56/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SauravPandey56/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/SauravPandey56/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/SauravPandey56/leetcode/tree/main/2029-stone-game-ix/) | Medium |
@@ -80,8 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SauravPandey56/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SauravPandey56/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/SauravPandey56/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/SauravPandey56/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/SauravPandey56/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -99,8 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/SauravPandey56/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SauravPandey56/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SauravPandey56/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SauravPandey56/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SauravPandey56/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SauravPandey56/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/SauravPandey56/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SauravPandey56/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -138,21 +140,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SauravPandey56/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SauravPandey56/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0595-big-countries](https://github.com/SauravPandey56/leetcode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SauravPandey56/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1260-shift-2d-grid](https://github.com/SauravPandey56/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SauravPandey56/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SauravPandey56/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/SauravPandey56/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SauravPandey56/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1096-brace-expansion-ii](https://github.com/SauravPandey56/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/SauravPandey56/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SauravPandey56/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -175,8 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SauravPandey56/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/SauravPandey56/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SauravPandey56/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SauravPandey56/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SauravPandey56/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -184,8 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SauravPandey56/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SauravPandey56/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SauravPandey56/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SauravPandey56/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SauravPandey56/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -197,8 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SauravPandey56/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/SauravPandey56/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0301-remove-invalid-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/SauravPandey56/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SauravPandey56/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -208,23 +210,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/SauravPandey56/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SauravPandey56/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SauravPandey56/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SauravPandey56/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SauravPandey56/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SauravPandey56/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SauravPandey56/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SauravPandey56/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SauravPandey56/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SauravPandey56/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/SauravPandey56/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0835-image-overlap](https://github.com/SauravPandey56/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/SauravPandey56/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/SauravPandey56/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -233,8 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SauravPandey56/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SauravPandey56/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SauravPandey56/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SauravPandey56/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SauravPandey56/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -243,13 +245,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SauravPandey56/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/SauravPandey56/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SauravPandey56/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/SauravPandey56/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/SauravPandey56/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -273,19 +275,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SauravPandey56/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/SauravPandey56/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3620-network-recovery-pathways](https://github.com/SauravPandey56/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SauravPandey56/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SauravPandey56/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SauravPandey56/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/SauravPandey56/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/SauravPandey56/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SauravPandey56/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/SauravPandey56/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
@@ -322,8 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/SauravPandey56/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SauravPandey56/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1140-stone-game-ii](https://github.com/SauravPandey56/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SauravPandey56/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SauravPandey56/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -333,16 +335,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/SauravPandey56/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/SauravPandey56/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SauravPandey56/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SauravPandey56/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SauravPandey56/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SauravPandey56/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SauravPandey56/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1386-cinema-seat-allocation](https://github.com/SauravPandey56/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SauravPandey56/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SauravPandey56/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -351,8 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SauravPandey56/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SauravPandey56/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1291-sequential-digits](https://github.com/SauravPandey56/leetcode/tree/main/1291-sequential-digits/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SauravPandey56/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SauravPandey56/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -361,8 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SauravPandey56/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SauravPandey56/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SauravPandey56/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SauravPandey56/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/SauravPandey56/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -371,23 +373,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SauravPandey56/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SauravPandey56/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SauravPandey56/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SauravPandey56/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/SauravPandey56/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SauravPandey56/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2029-stone-game-ix](https://github.com/SauravPandey56/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SauravPandey56/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SauravPandey56/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SauravPandey56/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SauravPandey56/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/SauravPandey56/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -399,28 +401,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SauravPandey56/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SauravPandey56/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SauravPandey56/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SauravPandey56/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SauravPandey56/leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/SauravPandey56/leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SauravPandey56/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/SauravPandey56/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/SauravPandey56/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/SauravPandey56/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/SauravPandey56/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/SauravPandey56/leetcode/tree/main/1140-stone-game-ii/) | Medium |
@@ -430,59 +433,59 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/SauravPandey56/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/SauravPandey56/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/SauravPandey56/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SauravPandey56/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1140-stone-game-ii](https://github.com/SauravPandey56/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/SauravPandey56/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/SauravPandey56/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/SauravPandey56/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1140-stone-game-ii](https://github.com/SauravPandey56/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/SauravPandey56/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/SauravPandey56/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/SauravPandey56/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1510-stone-game-iv](https://github.com/SauravPandey56/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/SauravPandey56/leetcode/tree/main/2029-stone-game-ix/) | Medium |
-## Sprague–Grundy Theorem
-| Problem Name | Difficulty |
-| ------- | ------- |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
 | [1510-stone-game-iv](https://github.com/SauravPandey56/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SauravPandey56/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SauravPandey56/leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SauravPandey56/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SauravPandey56/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0836-rectangle-overlap](https://github.com/SauravPandey56/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SauravPandey56/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -493,5 +496,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SauravPandey56/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SauravPandey56/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SauravPandey56/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SauravPandey56/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
