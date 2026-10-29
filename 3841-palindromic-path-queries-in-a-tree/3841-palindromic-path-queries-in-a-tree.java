@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     private List<Integer>[] adj;
     private int[][] up;
